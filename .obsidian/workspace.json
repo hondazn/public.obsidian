@@ -13,12 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech Notes/neovim/Neovim.md",
+                "file": "notes/Diary/2025-01-13.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Neovim"
+              "title": "2025-01-13"
             }
           }
         ]
@@ -163,8 +164,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c35aba20c5edaa4a",
+  "active": "4a234ec687699c92",
   "lastOpenFiles": [
+    "notes/Diary/2025-01-12.md",
+    "notes/Diary/2025-01-13.md",
+    "notes/Diary/2025年.md",
+    "2025-01-12.md",
+    "notes/Memo.md",
+    "notes/Diary",
+    "notes/Articles",
+    "notes",
+    "2025-01-13.md",
+    "build.sh",
+    "vault",
     "Memo.md",
     "Life Notes/買ってよかったもの.md",
     "Tech Notes/git/Git.md",
@@ -185,21 +197,10 @@
     "Tech Notes/mac/raycast.md",
     "Tech Notes/neovim/neovim_plugins.md",
     "Tech Notes/neovim/Neovim.md",
-    "Tech Notes/mac/yabai.md",
-    "Tech Notes/mac/skhd.md",
-    "Tech Notes/mac/karabiner.md",
     "Tech Notes/typescript／javascript",
     "Tech Notes/tmux",
     "Tech Notes/rust",
     "Tech Notes/obsidian",
-    "Tech Notes/neovim",
-    "Tech Notes/mise",
-    "Tech Notes/mac",
-    "Tech Notes/git",
-    "Tech Notes/fish",
-    "Tech Notes/alacritty",
-    "TechNotes/mac/karabiner.md",
-    "TechNotes/mac/skhd.md",
-    "TechNotes/mac/yabai.md"
+    "Tech Notes/neovim"
   ]
 }
