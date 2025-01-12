@@ -1,25 +1,24 @@
 {
   "main": {
-    "id": "a1aa3236e611d28a",
+    "id": "3b551747eec4e26b",
     "type": "split",
     "children": [
       {
-        "id": "22e09f1e1d76ccac",
+        "id": "a51cff9864310bfb",
         "type": "tabs",
         "children": [
           {
-            "id": "4a234ec687699c92",
+            "id": "27e1759b91db7518",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Diary/2025-01-13.md",
+                "file": "README.md",
                 "mode": "source",
-                "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-13"
+              "title": "README"
             }
           }
         ]
@@ -28,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "8b85dbdd421fa697",
+    "id": "d1b2f804bab768c5",
     "type": "split",
     "children": [
       {
-        "id": "788443f26399c836",
+        "id": "7ce31748212daea7",
         "type": "tabs",
         "children": [
           {
-            "id": "c35aba20c5edaa4a",
+            "id": "e3503ccff60eefc5",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +47,7 @@
             }
           },
           {
-            "id": "3745bf65eb4059ba",
+            "id": "9375a562306a5aa5",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +64,7 @@
             }
           },
           {
-            "id": "d2800c4a08c39bd2",
+            "id": "e3b20c43d66a0ef3",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +77,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "bc3fd9d0360ca340",
+    "id": "42b4d745cf84bd2e",
     "type": "split",
     "children": [
       {
-        "id": "fa2967c8319dab15",
+        "id": "dbe1cd06d10b8011",
         "type": "tabs",
         "children": [
           {
-            "id": "6953bdacb76263aa",
+            "id": "b15ce4b91ba00476",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech Notes/neovim/Neovim.md",
+                "file": "Diary/2025-01-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +103,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Neovim"
+              "title": "Backlinks for 2025-01-12"
             }
           },
           {
-            "id": "b8a44e6b903b4d04",
+            "id": "760473e6e4c4274c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech Notes/neovim/Neovim.md",
+                "file": "Diary/2025-01-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Neovim"
+              "title": "Outgoing links from 2025-01-12"
             }
           },
           {
-            "id": "a6c67899c0180a51",
+            "id": "b99202e76c224094",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,15 +134,15 @@
             }
           },
           {
-            "id": "53127151525dd17a",
+            "id": "009be1948716d498",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech Notes/neovim/Neovim.md"
+                "file": "Diary/2025-01-12.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Neovim"
+              "title": "Outline of 2025-01-12"
             }
           }
         ]
@@ -160,47 +159,56 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "4a234ec687699c92",
+  "active": "27e1759b91db7518",
   "lastOpenFiles": [
-    "notes/Diary/2025-01-12.md",
-    "notes/Diary/2025-01-13.md",
-    "notes/Diary/2025年.md",
-    "2025-01-12.md",
-    "notes/Memo.md",
-    "notes/Diary",
-    "notes/Articles",
-    "notes",
-    "2025-01-13.md",
-    "build.sh",
-    "vault",
-    "Memo.md",
-    "Life Notes/買ってよかったもの.md",
-    "Tech Notes/git/Git.md",
-    "Tech Notes/neovim/config.nvim.md",
-    "Tech Notes/typescript／javascript/biome.md",
-    "Tech Notes/typescript／javascript/React.md",
-    "Tech Notes/typescript／javascript/TypeScript.md",
-    "Tech Notes/fish/fish.md",
-    "Tech Notes/alacritty/Alacritty.md",
-    "Diary/2025年.md",
-    "Tech Notes/obsidian/O_bsidian.md",
-    "Tech Notes/tmux/tmux.md",
-    "Tech Notes/obsidian/Obsidian.md",
-    "Tech Notes/mise/mise.md",
-    "Tech Notes/neovim/Neovimのpluginsたち.md",
-    "Tech Notes/mac/Karabiner.md",
-    "Tech Notes/mac/Raycast.md",
-    "Tech Notes/mac/raycast.md",
-    "Tech Notes/neovim/neovim_plugins.md",
-    "Tech Notes/neovim/Neovim.md",
-    "Tech Notes/typescript／javascript",
-    "Tech Notes/tmux",
-    "Tech Notes/rust",
-    "Tech Notes/obsidian",
-    "Tech Notes/neovim"
+    "quartz/node_modules/sass-embedded/dist/lib/src/version.js",
+    "quartz/node_modules/sass-embedded/dist/lib/src/utils.js",
+    "quartz/node_modules/sass-embedded/dist/lib/src/request-tracker.js",
+    "quartz/node_modules/sass-embedded/dist/lib/src/packet-transformer.js",
+    "quartz/node_modules/sass-embedded/dist/lib/src/protofier.js",
+    "quartz/node_modules/sass-embedded/dist/lib/src/messages.js",
+    "quartz/node_modules/sass-embedded/dist/lib/src/logger.js",
+    "quartz/node_modules/sass-embedded/dist/lib/src/message-transformer.js",
+    "quartz/node_modules/pixi.js/lib/rendering/renderers/autoDetectRenderer.js",
+    "quartz/node_modules/parse5/dist/cjs/tree-adapters/default.d.ts",
+    "quartz/node_modules/parse5/dist/cjs/tree-adapters/interface.js",
+    "Diary/2025-01-13.md",
+    "Diary/2025-01-12.md",
+    "quartz/public/static/og-image.png",
+    "quartz/public/static/icon.png",
+    "quartz/content/Diary/2025-01-13.md",
+    "quartz/content/Diary/2025-01-12.md",
+    "quartz/content/index.md",
+    "quartz/node_modules/mathjax-full/README.md",
+    "quartz/node_modules/mathjax-full/CONTRIBUTING.md",
+    "quartz/node_modules/pixi.js/README.md",
+    "quartz/node_modules/rxjs/README.md",
+    "quartz/node_modules/rxjs/CODE_OF_CONDUCT.md",
+    "quartz/node_modules/rxjs/CHANGELOG.md",
+    "quartz/node_modules/typescript/SECURITY.md",
+    "quartz/node_modules/typescript/README.md",
+    "quartz/node_modules/@img/sharp-libvips-darwin-arm64/README.md",
+    "quartz/node_modules/jsdom/README.md",
+    "quartz/node_modules/colorjs.io/README.md",
+    "quartz/node_modules/@esbuild/darwin-arm64/README.md",
+    "quartz/node_modules/tsx/node_modules/@esbuild/darwin-arm64/README.md",
+    "quartz/node_modules/speech-rule-engine/README.md",
+    "quartz/node_modules/speech-rule-engine/bin/README.md",
+    "quartz/node_modules/rehype-citation/README.md",
+    "quartz/node_modules/css-tree/README.md",
+    "quartz/node_modules/sass/README.md",
+    "quartz/node_modules/flexsearch/README.md",
+    "quartz/node_modules/flexsearch/CHANGELOG.md",
+    "quartz/node_modules/psl/browserstack-logo.svg",
+    "quartz/node_modules/cli-spinner/img/spinner.gif",
+    "quartz/quartz/static/og-image.png",
+    "quartz/quartz/static/icon.png",
+    "quartz/docs/images/social-image-preview-light.png",
+    "quartz/docs/images/social-image-preview-dark.png",
+    "quartz/docs/images/quartz-layout-tablet.png",
+    "quartz/docs/images/quartz-layout-mobile.png"
   ]
 }
